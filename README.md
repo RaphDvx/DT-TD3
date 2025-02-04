@@ -1,2 +1,3 @@
-install requirements.txt
+install requirements.txt 
+
 launch app.py
